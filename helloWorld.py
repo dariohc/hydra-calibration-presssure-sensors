@@ -39,9 +39,6 @@ for line in my_file_daqsetup:
             my_file_daqsetup_new.write(current_line[: variable_offset + 2] + \
                                        str(daqsetup_values[offset_index]) + '}\n')
         print(variable_value + calibration_offsets[offset_index])
-
         offset_index += 1
-
     else:
         my_file_daqsetup_new.write(current_line)
-
