@@ -1,0 +1,81 @@
+offset correction summands:
+    'in_4_1_11_0 offset correction summand:38457'
+
+    'in_4_1_12_0 offset correction summand:-25238'
+
+    'in_4_1_13_0 offset correction summand:-51677'
+
+    'in_4_1_14_0 offset correction summand:38457'
+
+    'in_4_1_15_0 offset correction summand:65918'
+
+    'in_4_2_11_0 offset correction summand:-5108'
+
+    'in_4_2_12_0 offset correction summand:-14722'
+
+    'in_4_2_13_0 offset correction summand:-2704'
+
+    'in_4_2_14_0 offset correction summand:22534'
+
+    'in_4_2_15_0 offset correction summand:49439'
+
+    'in_5_1_11_0 offset correction summand:36654'
+
+    'in_5_1_12_0 offset correction summand:-34251'
+
+    'in_5_1_13_0 offset correction summand:-12619'
+
+    'in_5_1_14_0 offset correction summand:10216'
+
+    'in_5_1_15_0 offset correction summand:55847'
+
+    'in_5_2_11_0 offset correction summand:-19830'
+
+    'in_5_2_12_0 offset correction summand:-4207'
+
+    'in_5_2_13_0 offset correction summand:30646'
+
+    'in_5_2_14_0 offset correction summand:-6610'
+
+    'in_5_2_15_0 offset correction summand:35705'
+
+    'in_6_1_11_0 offset correction summand:73910'
+
+    'in_6_1_12_0 offset correction summand:-78717'
+
+    'in_6_1_13_0 offset correction summand:13821'
+
+    'in_6_1_14_0 offset correction summand:-9014'
+
+    'in_6_1_15_0 offset correction summand:47116'
+
+    'in_6_2_11_0 offset correction summand:18628'
+
+    'in_6_2_12_0 offset correction summand:-11417'
+
+    'in_6_2_13_0 offset correction summand:-16224'
+
+    'in_6_2_14_0 offset correction summand:9013'
+
+    'in_6_2_15_0 offset correction summand:-5494'
+
+    'in_7_1_11_0 offset correction summand:45367'
+
+    'in_7_1_12_0 offset correction summand:-31547'
+
+    'in_7_1_13_0 offset correction summand:-8714'
+
+    'in_7_1_14_0 offset correction summand:-5107'
+
+    'in_7_1_15_0 offset correction summand:16834'
+
+    'in_7_2_11_0 offset correction summand:24937'
+
+    'in_7_2_12_0 offset correction summand:-33951'
+
+    'in_7_2_13_0 offset correction summand:-55582'
+
+    'in_7_2_14_0 offset correction summand:64596'
+
+    'in_7_2_15_0 offset correction summand:36621'
+
